@@ -5,6 +5,7 @@
 ## Tyche Protocol <a href="#tp" id="tp"></a>
 
 * [About](tp/about.md)
+* [Useful links](https://linktr.ee/tychezone)
 
 ## 🔁 Tyche AMM
 

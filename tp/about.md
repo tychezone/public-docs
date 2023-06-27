@@ -1,7 +1,7 @@
 ---
 description: >-
-  Tyche protocol is all-in-one defi hub we offer set of useful dApps for our
-  community and to other projects/communities as well.
+  Tyche protocol is all-in-one defi hub we offer set of useful dApps not just
+  for Tyche community but also for the other projects/communities as well.
 ---
 
 # About

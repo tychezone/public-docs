@@ -13,8 +13,8 @@
 * [BASIC AMM Design Components](tyche-amm/basic-amm-design-components.md)
 * [Risks of AMM](tyche-amm/risks-of-amm.md)
 
-## 💹 Staking dApp
+## 💹 Weave - Staking dApp <a href="#weave" id="weave"></a>
 
-* [How it works](staking-dapp/how-it-works/README.md)
-  * [Dual Incentives](staking-dapp/how-it-works/dual-incentives.md)
-  * [For External projects](staking-dapp/how-it-works/for-external-projects.md)
+* [How it works](weave/how-it-works/README.md)
+  * [Dual Incentives](weave/how-it-works/dual-incentives.md)
+  * [Whitelisting NFT collection on Weave](weave/how-it-works/whitelisting-nft-collection-on-weave.md)

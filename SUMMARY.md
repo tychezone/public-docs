@@ -17,4 +17,5 @@
 
 * [How it works](weave/how-it-works/README.md)
   * [Dual Incentives](weave/how-it-works/dual-incentives.md)
-  * [Whitelisting NFT collection on Weave](weave/how-it-works/whitelisting-nft-collection-on-weave.md)
+* [Developer Guide](weave/developer-guide/README.md)
+  * [Contract-level metadata](weave/developer-guide/contract-level-metadata.md)

@@ -19,3 +19,4 @@
   * [Dual Incentives](weave/how-it-works/dual-incentives.md)
 * [Developer Guide](weave/developer-guide/README.md)
   * [Contract-level metadata](weave/developer-guide/contract-level-metadata.md)
+  * [Metadata Standards](weave/developer-guide/metadata-standards.md)

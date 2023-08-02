@@ -20,3 +20,4 @@
 * [Developer Guide](weave/developer-guide/README.md)
   * [Contract-level metadata](weave/developer-guide/contract-level-metadata.md)
   * [Metadata Standards](weave/developer-guide/metadata-standards.md)
+  * [Metadata structure](weave/developer-guide/metadata-structure.md)

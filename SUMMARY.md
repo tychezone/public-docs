@@ -6,6 +6,7 @@
 
 * [About](tp/about.md)
 * [Useful links](https://linktr.ee/tychezone)
+* [Tyche Tokens](tp/tyche-tokens.md)
 
 ## 🔁 Tyche AMM
 

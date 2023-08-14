@@ -17,6 +17,7 @@
 ## 💹 Weave - Staking dApp <a href="#weave" id="weave"></a>
 
 * [How it works](weave/how-it-works/README.md)
+  * [Supported collections](weave/how-it-works/supported-collections.md)
   * [Dual Incentives](weave/how-it-works/dual-incentives.md)
 * [Developer Guide](weave/developer-guide/README.md)
   * [Contract-level metadata](weave/developer-guide/contract-level-metadata.md)

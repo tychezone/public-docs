@@ -19,6 +19,7 @@
 * [How it works](weave/how-it-works/README.md)
   * [Supported collections](weave/how-it-works/supported-collections.md)
   * [Dual Incentives](weave/how-it-works/dual-incentives.md)
+  * [Expired reward pools](weave/how-it-works/expired-reward-pools.md)
 * [Developer Guide](weave/developer-guide/README.md)
   * [Contract-level metadata](weave/developer-guide/contract-level-metadata.md)
   * [Metadata Standards](weave/developer-guide/metadata-standards.md)

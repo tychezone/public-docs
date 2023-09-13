@@ -24,3 +24,7 @@
   * [Contract-level metadata](weave/developer-guide/contract-level-metadata.md)
   * [Metadata Standards](weave/developer-guide/metadata-standards.md)
   * [Metadata structure](weave/developer-guide/metadata-structure.md)
+
+## Media Kit
+
+* [Assets](media-kit/assets.md)
